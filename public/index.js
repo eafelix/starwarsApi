@@ -25,18 +25,3 @@ $(document).ready(function() {
 
   });
 });
-
-//GET
-// $.get("test.php",function(data){
-//   alert("Data: " + data);
-// });
-
-//POST
-// $.get("test.php", {},function(data){
-//   alert("Data: " + data);
-// });
-
-//JSON
-//$(selector).getJSON("test.php",{},function(data){
-//   alert("Data: " + data);
-// })
